@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="cancel">CANCEL</string>
+    <string name="enter_smart_phone_name">Enter smart phone name</string>
+    <string name="enter_something">Enter something</string>
+</resources>
